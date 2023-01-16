@@ -1,0 +1,11 @@
+Pinos Utilizados:
+
+Eixo X: A0
+Eixo Y: A1
+Botão A: D2
+Botão B: D3
+Botão C: D4
+Botão D: D5
+Botão E: D6
+Botão F: D7
+Botão K: D8
